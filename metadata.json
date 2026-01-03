@@ -1,0 +1,7 @@
+{
+  "name": "Torvix Arena",
+  "description": "A modern, community-driven tournament platform for local sports, featuring automated brackets, AI-powered hype generation, and seamless registration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
